@@ -1,1 +1,2 @@
 test add commit stage
+这是stash功能第三次测试。
